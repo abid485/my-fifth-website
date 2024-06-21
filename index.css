@@ -2,3 +2,15 @@ h1{
                                         background-color:green;
 color:white;
 }
+.pe{
+  background-color:goldenrod;
+}
+.pe:hover{
+ color:white;
+ background-color:green;
+ transition: 4ms;
+}
+input:focus{
+ color:green;
+ font-size: 15px;
+}
